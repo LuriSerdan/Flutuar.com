@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Foi feito uma Land page com o tema "Flutuar.com" para desktop, com o intuito de estudar fundamentos do HTML e CSS, onde, foi desafiado a reprodução de um layout pelo figma com os conceitos aprendidos em aula.
 
-- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Moveis-customizados-Landing-page/)
+- [Acesse o projeto finalizado, online](https://luriserdan.github.io/Flutuar.com/)
 
 ## 🔖 Layout
 
